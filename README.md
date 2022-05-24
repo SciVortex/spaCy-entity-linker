@@ -7,7 +7,6 @@
   python sample.py  
 </code>
 
-
 ## Introduction
 
 Spacy Entity Linker is a pipeline for spaCy that performs Linked Entity Extraction with Wikidata on a given Document.
